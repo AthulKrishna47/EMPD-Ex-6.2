@@ -34,16 +34,19 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+<img width="679" height="893" alt="image" src="https://github.com/user-attachments/assets/c48bb907-0b4f-4cd0-a07c-b31aadfee1d0" />
+<img width="683" height="222" alt="image" src="https://github.com/user-attachments/assets/99222de5-dca6-4af3-9131-cabe2bfc0674" />
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+<img width="708" height="669" alt="image" src="https://github.com/user-attachments/assets/be414717-58f8-4ee0-90f2-14d0ac994163" />
+<img width="708" height="430" alt="image" src="https://github.com/user-attachments/assets/36a8c4c8-fccb-41bd-85dc-b5649fe1b0ed" />
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+<img width="705" height="439" alt="image" src="https://github.com/user-attachments/assets/5131d7f7-8490-456c-af34-483baa5f9bf6" />
+<img width="699" height="674" alt="image" src="https://github.com/user-attachments/assets/b9aa1e8a-0964-4b5d-80d3-4f3438f8b05b" />
 
 ## Output:
 <img width="1848" height="915" alt="image" src="https://github.com/user-attachments/assets/482e671a-e64a-4724-a022-50f3ae96bca4" />
